@@ -5,3 +5,5 @@ Upload incidents_master.csv to your MyDrive in Google Drive before testing !
 
 
 [YOUR DATA? OUR DATA PART 2](https://colab.research.google.com/drive/1q6m3EsuTKJNFGod3m8hsNS1HVQQlJPRT?usp=sharing)
+
+[PARQUET FILE FOLDER](https://drive.google.com/drive/folders/1_9Cxi_kaSfKR-ZqFbMFc3JO2NqfHN7qA?usp=sharing)
